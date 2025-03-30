@@ -6,7 +6,17 @@ A lightweight quiz application built with **React** and powered by **JSON Server
 
 ## 📸 Preview
 
+### 🟢 Start screen
+![Start screen](public/screenshots/start.jpeg)
 
+### ❓ First question
+![Question](public/screenshots/question.jpeg)
+
+### ✅ Answer selected
+![Answered](public/screenshots/answered.jpeg)
+
+### 🏁 Result screen
+![Result](public/screenshots/result.jpeg)
 
 ---
 
