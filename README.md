@@ -39,6 +39,8 @@ A lightweight quiz application built with **React** and powered by **JSON Server
 ---
 
 ## 📁 Project Structure
+
+```bash
 react-quiz/
 ├── data/
 ├── public/
@@ -50,6 +52,7 @@ react-quiz/
 │   └── index.css
 ├── package.json
 └── README.md
+```
 
 ---
 
